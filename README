@@ -9,9 +9,11 @@
 
 ```bash
 cd ./server
+npm i
 npm run start
 
 cd ../web
+npm i
 npm run dev
 ```
 
