@@ -1,0 +1,18 @@
+{
+  "ibrahim": {
+    "username": "ibrahim",
+    "password": "pass",
+    "items": [
+      "ball",
+      "is",
+      "life"
+    ]
+  },
+  "user": {
+    "username": "user",
+    "password": "pass",
+    "items": [
+      "zaza"
+    ]
+  }
+}
